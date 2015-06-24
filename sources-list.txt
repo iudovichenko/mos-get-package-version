@@ -1,0 +1,13 @@
+#------------------------------------------------------------------------------#
+#                            MIRANTIS UBUNTU REPOS                             #
+#------------------------------------------------------------------------------#
+###### Ubuntu Main Repos
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty main restricted
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty-updates main restricted
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty universe
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty-updates universe
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty-security main restricted
+deb http://mirrors.srt.mirantis.net/ubuntu/ trusty-security universe
+##### Custom-Built Packages
+#deb http://mirror.fuel-infra.org/fwm/6.1/ubuntu/ trusty main
+deb http://osci-mirror-msk.msk.mirantis.net/fwm/6.1-trusty/ubuntu/ trusty main
