@@ -1,0 +1,1 @@
+# mos-get-package-version
